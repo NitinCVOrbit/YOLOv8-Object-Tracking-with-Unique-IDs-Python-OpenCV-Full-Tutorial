@@ -27,4 +27,3 @@ The `persist=True` feature ensures that each object keeps the same ID throughout
 
 ---
 
-## 📁 Project Structure
